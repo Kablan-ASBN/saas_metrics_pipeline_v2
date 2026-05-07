@@ -1,4 +1,4 @@
-# saas-metrics-pipeline
+# saas_metrics_pipeline_v2
 
 Production analytics pipeline for SaaS revenue metrics. Computes MRR, cohort retention, customer LTV, and the standard movement waterfall (new, expansion, contraction, churn, reactivation) on a Postgres warehouse.
 
